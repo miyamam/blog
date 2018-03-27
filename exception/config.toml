@@ -1,15 +1,17 @@
-baseURL = "http://miyamam.github.io/"
+baseURL = "http://miyamam.github.io"
 languageCode = "ja"
 title = "My Technical Note"
 theme = "kraiklyn"
 themesDir = "./themes"
-#canonifyurls = true
+canonifyurls = true
 
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
 [params]
 externalTitle = "参考リンク"
+subtitle = "備忘録がてら残したものです"
+author = "Miho Yamamoto"
 
 [[menu.shortcuts]]
 name = "miyamam on Github"
