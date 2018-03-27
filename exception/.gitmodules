@@ -1,0 +1,4 @@
+[submodule "themes/kraiklyn"]
+	path = themes/kraiklyn
+	url = git@github.com:jsnjack/kraiklyn.git
+	branch = master
