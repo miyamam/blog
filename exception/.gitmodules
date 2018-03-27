@@ -2,3 +2,7 @@
 	path = themes/kraiklyn
 	url = git@github.com:jsnjack/kraiklyn.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:miyamam/miyamam.github.io.git
+	branch = master
