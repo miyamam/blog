@@ -1,4 +1,4 @@
-baseURL = "http://miyamam.github.io"
+baseURL = "http://miyamam.github.io/"
 languageCode = "ja"
 title = "My Technical Note"
 theme = "kraiklyn"
