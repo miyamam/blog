@@ -2,7 +2,7 @@ baseURL = "http://miyamam.github.io/"
 languageCode = "ja"
 title = "My Technical Note"
 theme = "kraiklyn"
-themesDir = "./themes"
+# themesDir = "./themes"
 canonifyurls = true
 
 pygmentsCodeFences = true
